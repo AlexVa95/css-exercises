@@ -1,0 +1,13 @@
+.FirstBtn, .SecondBtn {
+    font-size: 28px;
+    font-style: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.FirstBtn {
+    background-color: black;
+    color: white;
+}
+
+.SecondBtn {
+    background-color: yellow;
+}
